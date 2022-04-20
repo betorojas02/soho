@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "es6",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist" /* Redirect output structure to the directory. */,
+      "experimentalDecorators": true,              /* Enables experimental support for ES7 decorators. */
+      "emitDecoratorMetadata": true,               /* Enables experimental support for emitting type metadata for decorators. */
+    },
+  }
